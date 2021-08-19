@@ -11,7 +11,7 @@ gem 'jquery-rails', '4.0.3'
 gem 'turbolinks', '2.3.0'
 gem 'jbuilder', '~> 2.0'
 gem 'railties', '>= 0.a'
-gem 'bigdecimal', '1.3.5'
+#gem 'bigdecimal', '1.3.5'
 gem 'sdoc', '~> 0.4.0', group: :doc
 
 
